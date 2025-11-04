@@ -1,0 +1,29 @@
+body {
+    background-image: url(m\ \(1\).jpg);
+font-family: sans-serif;
+padding: 20px;
+}
+
+h1 {
+ font-size: 50px;
+ margin-top: 1;
+ margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.navigation {
+width: 80%;
+background-color: lavenderblush;
+margin-left: auto;
+margin-right: auto;
+font-size: 15px;
+padding-bottom: 10px;
+
+}
