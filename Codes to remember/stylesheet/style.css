@@ -1,0 +1,13 @@
+.inline-block-element {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.element1 {
+    background-color: turquoise;
+}
+
+.element2 {
+    background-color: magenta;
+}
